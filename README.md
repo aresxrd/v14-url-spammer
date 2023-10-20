@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=60&pause=1000&color=05a0fa&repeat=false&width=800&height=100&lines=V14+URL+Spammer+Altyapısı)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=60&pause=1000&color=f70505&repeat=false&width=800&height=100&lines=V14+Url+Spammer)](#)
 
 
  # Botun Kurulumu
